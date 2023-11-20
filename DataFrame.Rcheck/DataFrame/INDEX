@@ -1,0 +1,17 @@
+DataFrame               Creates DataFrame object from a given data
+                        frame.
+DataFrame-package       Package offers multiple ML preprocessing
+                        functions.
+GeneratePlot.DataFrame
+                        GeneratePlot function
+HandleMissingValues.DataFrame
+                        GeneratePlot function
+astype.DataFrame        ~~astype.DataFrame: convert columns data type~~
+custom_normalize.DataFrame
+                        Custom Data Frame Normalization Function
+encoding.DataFrame      ~~encoding.DataFrame: convert to perform
+                        columns encoding~~
+summary.DataFrame       Summary Statistics for Data Frame
+train_test_split.DataFrame
+                        ~~train_test_split.DataFrame: performs
+                        train-test split ~~
